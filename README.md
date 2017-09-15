@@ -1,5 +1,5 @@
 # hello-world
 1st Repository
+Different message of hope.
+May the Force be with me!
 
-Ready to begin the new journey. 
-May the "42" be with me!
